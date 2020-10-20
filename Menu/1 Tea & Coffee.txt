@@ -1,0 +1,12 @@
+#Cafe e Cha
+*Cafe
+Cafe Pequeno / 50ML 1/-
+Cafe Medio / 100 ML 2/-
+Cafe Grande / 150 ML 3/-
+Cafe Expresso / 100ML 5/-
+Pingado / 100ML 3/-
+*Cha
+Cha / 50ML 2/-
+Cha / 80ML 3/-
+Cha Especial 5/-
+
