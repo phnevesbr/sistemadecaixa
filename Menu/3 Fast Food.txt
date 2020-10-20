@@ -1,0 +1,36 @@
+#Fast Food
+*Saladas
+Salada De Frutas 8/-
+Salada De Verduras 12/-
+*Hamburguer
+X Calabresa 6/-
+X Salada 6/-
+X File 10/-
+X Bacon 6/-
+X Bomba 9/-
+Hamburguer Especial 8/-
+Hamburguer Especial Duplo 11/-
+Hamburguer De Carne Bovina 13/-
+Hamburguer De Picanha Bovina 17/-
+Hamburguer De Carne De Sol 14/-
+Hamburguer De Peixe 12/-
+*Pizzas
+Pizza De Calabresa 20/-
+Pizza De Milho 20/-
+Pizza De Marguerita 20/-
+Pizza De Americana 20/-
+Pizza De Mussarela 20/-
+Pizza De Bacon 25/-
+Pizza De Frango 25/-
+Pizza De Frango 25/-
+Pizza De Quatro Queijos 30/-
+Pizza De Portuguesa 30/-
+Pizza De Strogonoff 35/-
+*Macarrão e Lasanha
+Espaguete De Carne 10/-
+Espaguete De Frango 12/-
+Espaguete Napolitano 12/-
+Lasanha De Frango 24/-
+Lasanha De Carne 20/-
+Lasanha De Queijo 18/-
+

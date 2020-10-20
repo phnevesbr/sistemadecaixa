@@ -1,0 +1,19 @@
+#Sobremesas
+*Milk Shakes
+Chocolate 12/-
+Morango 12/-
+Oreo 14/-
+Doce De Leite 14/-
+*Acai
+Acai Na Tigela 15/-
+Acai No Copo 10/-
+*Sorvetes
+Sorvete Pequeno 5/-
+Sorvete Medio 7/-
+Sorvete Grande 10/-
+*Tortas
+Torta De Limao 6/-
+Torta De Morango 7/-
+Torta De Maca 6/-
+Torta De Chocolate 10/-
+Pave 5/-

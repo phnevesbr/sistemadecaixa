@@ -1,0 +1,47 @@
+#Bebidas
+*Cerveja
+Corona 9/-
+Brama / Lata 5/-
+Heineken / Lata 6/-
+Budweiser / Lata 6/-
+Malzibier / 355ML 7/-
+Brahma / 600ML 10/-
+Skol / 600ML 10/-
+Original / 600ML 12/-
+Itaipava / 600ML 9/-
+Heineken / 600ML 12/-
+Imperio / 600ML 10/-
+Cacildis / 600ML 12/-
+*Refrigerantes
+Coca Cola / 2 Litros  6/-
+Coca Cola Zero / 2 Litros 6/-
+Coca Cola / 500 ML / Lata 4/-
+Fanta / 2 Litros 5/-
+Fanta / 500ML / Lata 3/-
+Sprite / 2 Litros 5/-
+Guarana / 2 Litros 7/-
+*Agua
+Agua Mineral 2/-
+Agua Com Gas 4/-
+*Sucos Polpas 500ML
+Abacaxi 7/-
+Abacaxi Com Hortela 8/-
+Uva 7/-
+Morango 7/-
+Acerola 6/-
+Acerola Com Laranja 8/-
+Goiaba 7/-
+*Cachaca
+Seleta 5/-
+Salinas 6/-
+Boazinha 8/-
+Ypioca 6/-
+*Drinks
+Caipirinha Cachaca 51 15/-
+Campari / Dose 9/-
+Conhaque Domecq / Dose 9/-
+Whisky Red Laber / Dose 15/-
+Espanhola / Copo 17/-
+Caipirosca Smirnoff / Copo 17/-
+Vinho Tinto Suave / 300ML / Jarra 20/-
+Vinho Tinto Seco / 500ML / Jarra 20/-
