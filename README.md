@@ -6,6 +6,8 @@ O item selecionado será exibido no quadro de item de onde pode adicionar item, 
 Pode gerar fatura após selecionar pelo menos 1 item.</br>
 </br>
 Facíl de adicionar novos produtos basta colocar em "Menu" abrindo a categoria em .txt e adicionando o novo produto.</br>
-Formato: Nome / Info Valor/-</br>
+Formato Com Descrição: Nome / Info Valor/-</br>
 Exemplo: Cha / 50ML 2/-</br>
-Exemplo2: Sorvete / Grande 10/-
+</br>
+Formato Sem Descrição: Nome Valor/-</br>
+Exemplo: Sorvete Grande 10/-
