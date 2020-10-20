@@ -10,4 +10,4 @@ Formato Com Descrição: Nome / Info Valor/-</br>
 Exemplo: Cha / 50ML 2/-</br>
 </br>
 Formato Sem Descrição: Nome Valor/-</br>
-Exemplo: Sorvete Grande 10/-
+Exemplo: Sorvete 10/-
