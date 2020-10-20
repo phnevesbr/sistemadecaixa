@@ -1,4 +1,4 @@
-# Sistema De Caixa Para: Mercado / Lojas / Restaurantes
+# Sistema Para: Mercado / Lojas / Restaurantes
 Projeto usando (python tkinter) que tem um menu com todos os produtos, recebe o pedido do cliente e gera a conta.</br>
 As contas serão salvas também em formato de texto na pasta 'Bill Records' com todas informações.</br>
 </br>
